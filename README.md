@@ -1,1 +1,2 @@
 # Student-Performance-Predictor
+Conceptual framework for predictive talent analytics. Architected the business logic for a data-informed model designed to evaluate student metrics (academic consistency, extracurricular engagement, and soft-skill indicators) to forecast early-career success. The objective was to transition campus recruitment from reactive screening to proactive, risk-managed talent identification, ensuring a higher alignment between raw potential and organizational requirements.
